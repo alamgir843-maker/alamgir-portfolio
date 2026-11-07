@@ -3,24 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Alamgir Hossain — professional video editor and post-production specialist." />
+  <meta name="description" content="Alamgir Hossain is a professional video editor based in Saudi Arabia, creating cinematic wedding films, highlights, social videos and commercial edits worldwide." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="theme-color" content="#11100f" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Alamgir Hossain — Cinematic Video Editor" />
+  <meta property="og:description" content="Wedding films, stories and visuals crafted with feeling. Explore 10 selected projects." />
+  <meta property="og:image" content="images/alamgir.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preload" as="image" href="images/alamgir.jpg" />
   <title>Alamgir Hossain — Video Editor</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Alamgir Hossain","jobTitle":"Video Editor","image":"images/alamgir.jpg","email":"alamgir843@gmail.com","telephone":"+966570248170","address":{"@type":"PostalAddress","addressCountry":"SA"},"knowsAbout":["Wedding Films","Video Editing","Adobe Premiere Pro","After Effects","Post-production"]}</script>
 </head>
 <body>
   <div class="topline"><span>AVAILABLE FOR SELECT PROJECTS</span><span>BASED IN SAUDI ARABIA · WORKING WORLDWIDE</span></div>
   <header class="nav wrap">
     <a class="brand" href="#home">AH<span>.</span></a>
-    <nav>
+    <nav id="primary-nav">
       <a href="#work">Selected work</a>
       <a href="#about">About</a>
       <a href="#services">Services</a>
       <a class="nav-contact" href="#contact">Let’s talk <span>↗</span></a>
     </nav>
-    <button class="menu-toggle" aria-label="Open menu">☰</button>
+    <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">☰</button>
   </header>
 
   <main>
@@ -36,7 +45,7 @@
       </div>
       <div class="hero-art">
         <div class="portrait-frame">
-          <img class="your-photo" src="./alamgir.jpg" alt="Alamgir Hossain — Video Editor">
+          <img class="your-photo" src="images/alamgir.jpg" alt="Alamgir Hossain — Video Editor">
           <div class="frame-caption"><span>ALAMGIR HOSSAIN</span><span>VIDEO EDITOR / 2026</span></div>
         </div>
         <div class="round-stamp">EDIT<br>WITH<br>FEELING</div>
@@ -156,6 +165,7 @@
   </main>
 
   <footer class="footer"><div class="wrap"><a class="brand" href="#home">AH<span>.</span></a><span>© <span id="year"></span> ALAMGIR HOSSAIN · VIDEO EDITOR</span><a href="#home">BACK TO TOP ↑</a></div></footer>
+  <a class="whatsapp-float" href="https://wa.me/966570248170" target="_blank" rel="noopener noreferrer" aria-label="Chat with Alamgir on WhatsApp"><span class="wa-icon">✆</span><span>Let’s talk</span></a>
   <script src="script.js"></script>
 </body>
 </html>

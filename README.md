@@ -1,25 +1,24 @@
-# Alamgir Hossain — Video Editor Portfolio
+# Alamgir Hossain — Video Portfolio
 
-A responsive, premium one-page portfolio inspired by editorial creative portfolios. It is an original design, not a copy of the reference website.
+A responsive, static portfolio website for Alamgir Hossain.
 
-## Open the website
-1. Extract this ZIP file.
-2. Open the `alamgir-video-portfolio` folder in VS Code.
-3. Open `index.html`.
-4. If you have Live Server installed, right-click `index.html` and choose **Open with Live Server**.
+## Included
+- Original profile photo and all 10 existing YouTube wedding projects
+- Cinematic hero and refined project gallery
+- About, services and contact sections
+- Responsive mobile navigation
+- WhatsApp floating contact shortcut
+- Scroll reveal motion with reduced-motion accessibility support
+- SEO description, Open Graph metadata and Person structured data
 
-## Personalize it before publishing
-- **Your photo:** Already added at `images/alamgir.jpg`. Replace it with another image using the same filename if you want to change it.
-- **Email:** Your email `alamgir843@gmail.com` is already added.
-- **WhatsApp:** The button currently uses `+8801339233752`. Change it if you want a different contact number.
-- **Videos:** Your 10 wedding projects are already displayed in the Selected Work gallery. Each thumbnail opens the corresponding YouTube video. For each video, use:
-  `https://www.youtube.com/watch?v=YOUR_VIDEO_ID`
-  and thumbnail:
-  `https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg`
-- **Add projects:** Duplicate one `<article class="project">...</article>` card in the `work-grid` section and update its title, description, link and thumbnail.
+## Run locally
+Open `index.html` in a browser, or serve this folder with any static web server.
 
-## Publish it online
-You can publish this static site using Netlify, Vercel, or GitHub Pages. Before publishing, add your real photo, email, and final project videos.
+## Deploy
+Upload the contents of this folder to GitHub Pages, Netlify, or another static hosting provider. Keep `images/alamgir.jpg`, `styles.css`, and `script.js` alongside `index.html`.
 
-## Important
-This is a front-end portfolio website. The video cards link to YouTube; they do not upload video files to a private server. For large MP4 uploads and video hosting, use a video host such as Vimeo/YouTube or add a backend and cloud storage later.
+## Contact details
+WhatsApp: +966 57 024 8170  
+Email: alamgir843@gmail.com
+
+The existing YouTube links and profile image have been retained.
