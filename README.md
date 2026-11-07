@@ -18,7 +18,7 @@ Open `index.html` in a browser, or serve this folder with any static web server.
 Upload the contents of this folder to GitHub Pages, Netlify, or another static hosting provider. Keep `images/alamgir.jpg`, `styles.css`, and `script.js` alongside `index.html`.
 
 ## Contact details
-WhatsApp: +880 1339233752  
+WhatsApp: +966 57 024 8170  
 Email: alamgir843@gmail.com
 
 The existing YouTube links and profile image have been retained.
