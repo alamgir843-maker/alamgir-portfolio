@@ -15,7 +15,7 @@ A responsive, static portfolio website for Alamgir Hossain.
 Open `index.html` in a browser, or serve this folder with any static web server.
 
 ## Deploy
-Upload the contents of this folder to GitHub Pages, Netlify, or another static hosting provider. Keep `images/alamgir.jpg`, `styles.css`, and `script.js` alongside `index.html`.
+Upload the contents of this folder to GitHub Pages, Netlify, or another static hosting provider. Keep `alamgir.jpg`, `styles.css`, and `script.js` alongside `index.html`.
 
 ## Contact details
 WhatsApp: +880 1339233752  
