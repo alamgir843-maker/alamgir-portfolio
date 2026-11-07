@@ -11,7 +11,7 @@ A responsive, premium one-page portfolio inspired by editorial creative portfoli
 ## Personalize it before publishing
 - **Your photo:** Already added at `images/alamgir.jpg`. Replace it with another image using the same filename if you want to change it.
 - **Email:** Your email `alamgir843@gmail.com` is already added.
-- **WhatsApp:** The button currently uses `+966570248170`. Change it if you want a different contact number.
+- **WhatsApp:** The button currently uses `+8801339233752`. Change it if you want a different contact number.
 - **Videos:** Your 10 wedding projects are already displayed in the Selected Work gallery. Each thumbnail opens the corresponding YouTube video. For each video, use:
   `https://www.youtube.com/watch?v=YOUR_VIDEO_ID`
   and thumbnail:
